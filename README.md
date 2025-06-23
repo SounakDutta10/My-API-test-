@@ -69,9 +69,6 @@ Achieved over **70%** total coverage across:
 - Functions
 - Lines
 
-### ✅ Example Coverage Report
-
-![Coverage Screenshot](./coverage-screenshot.png)
 
 ---
 
